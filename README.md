@@ -9,8 +9,7 @@ Homebrew可以幫你很簡單的安裝好OpenCC，在終端機輸入：
 
 	brew install opencc
 	
-![brew_install_opencc](https://github.com/jaosn820/Alfred-OpenCC-Workflow
-/Screenshots/brew_install_opencc.png)
+![brew install opencc](https://github.com/jason820/Alfred-OpenCC-Workflow/blob/master/Screenshots/brew_install_opencc.png)
 
 當然也可以自己下載原始碼編譯：
 
